@@ -1,6 +1,7 @@
 # AttemptNumber52
 
-
+/-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/
+  
   This project is a realization of the algorithm of sorting developed by the author. 
   The implementation of this algorithm is that: 
   1. The pointer passes through the array starting from its first element until the element next to the element on which the pointer is located will be less than that on which the pointer stands. 
@@ -14,6 +15,7 @@
   
   The project is distributed under the GNU General Public License v3.0 license, which allows the user to copy, modify and distribute programs, and ensure that users of all derived programs receive the above rights.
   
+/-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/
 
   Данный проект представляет собой реализацию разработанного авторм алгоритма сортировки. 
   Реализация данного алгоритма заключается в том, что: 
@@ -27,3 +29,5 @@
   Выходным значением функции является отсортированный массив.
 
   Проект распространяется по лицензии GNU General Public License v3.0, что позволяет предоставить пользователю права копировать, модифицировать и распространять программы, а также гарантировать, что и пользователи всех производных программ получат вышеперечисленные права. 
+
+/-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-/
