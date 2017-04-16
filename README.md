@@ -3,6 +3,7 @@
 /-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-/
   
   This project is a realization of the algorithm of sorting developed by the author. 
+  
   The implementation of this algorithm is that: 
   1. The pointer passes through the array starting from its first element until the element next to the element on which the pointer is located will be less than that on which the pointer stands. 
   2. Next are all the elements of the array, following the element on which the pointer is located, smaller than the one on which the pointer stands. 
@@ -19,6 +20,7 @@
 /-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-/
 
   Данный проект представляет собой реализацию разработанного авторм алгоритма сортировки. 
+  
   Реализация данного алгоритма заключается в том, что: 
   1. Указатель проходит по массиву начиная с его первого элемента до того момента пока элемент, следующий после элемента на котором стоит указатель, не будет меньше того, на котором стоит указатель. 
   2. Далее находятся все элементы массива, следующие после элемента на котором стоит указатель, меньшие того, на котором стоит указатель. 
